@@ -1,0 +1,7 @@
+id,category,name,price,mood,description,image_url
+s10,studio,선샤인 스튜디오,1100000,romantic,햇살이 가득한 따뜻한 세트장,https://images.unsplash.com/photo-1583939003579-730e3918a45a
+d10,dress,벨라 마리에,650000,romantic,러블리한 오프숄더 레이스 드레스,https://images.unsplash.com/photo-1595015383921-2e8609503add
+m10,makeup,코랄 무아,250000,romantic,맑고 투명한 유리알광 메이크업,https://images.unsplash.com/photo-1516975080661-46bfa2c2f7b8
+s11,studio,어반 아카이브,1400000,modern,도회적이고 깔끔한 화보 촬영,https://images.unsplash.com/photo-1606800052052-a08af7148866
+d11,dress,미니멀 엣지,1100000,modern,실크 소재의 깔끔한 라인,https://images.unsplash.com/photo-1566737236500-c8ac43014a67
+m11,makeup,톤앤매너,350000,modern,세련된 소프트 음영 메이크업,https://images.unsplash.com/photo-1522337660859-02fbefca4702
