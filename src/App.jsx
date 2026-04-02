@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { getRecommendations } from './services/sdmService';
 import { Sparkles, Filter, ChevronDown, Heart } from 'lucide-react';
 import AdminUpload from './components/AdminUpload';
+import logoImg from './assets/logo.png';
 import './App.css';
 
 function App() {
@@ -48,8 +49,8 @@ function App() {
     <div className="app-container">
       <header className="header">
         <div className="container header-content">
-          <div className="logo">
-            Lumina<span>.</span>Wedding
+          <div className="logo" style={{ display: 'flex', alignItems: 'center' }}>
+            <img src={logoImg} alt="요즘웨딩" style={{ height: '32px' }} />
           </div>
           <button className="btn btn-outline" style={{ padding: '8px 16px', fontSize: '0.9rem' }}>
             상담 예약
